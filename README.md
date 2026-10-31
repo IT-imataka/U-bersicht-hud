@@ -86,4 +86,4 @@ edgerunners-hud.widget/
 
 ## ライセンス
 
-<!-- TODO: MIT など、ライセンスを決めて LICENSE ファイルを追加する -->
+[MIT](./LICENSE)
